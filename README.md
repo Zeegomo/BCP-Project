@@ -1,5 +1,5 @@
 # BCP-Project
-game for school project
+game for school project (2014)
 
 made with the help of
 -Alessandro Bonzi (Designer 2D | Thing-breaker <3)
